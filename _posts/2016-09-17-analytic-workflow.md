@@ -9,6 +9,6 @@ A.A. Milne said that *"organization is what you do before you do something, so t
 
 RStudio provides several great options for improving your analytic workflow.  This includes RStudio projects, R Markdown, and the newly released R Notebook.  Check out the tutorials we just released on these tools and get your analytic workflow moving in the right direction before your next project!
 
-- [RStudio Projects](http://uc-r.github.io/r_projects)
-- [R Markdown](http://uc-r.github.io/r_markdown)
-- [R Notebooks](http://uc-r.github.io/r_notebook)
+- [RStudio Projects](http://wfu-r.github.io/r_projects)
+- [R Markdown](http://wfu-r.github.io/r_markdown)
+- [R Notebooks](http://wfu-r.github.io/r_notebook)
