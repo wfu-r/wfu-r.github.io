@@ -11,7 +11,7 @@ permalink:           pretty
 # Setup
 title:               WFU Business Analytics R Programming Guide
 tagline:             ''
-description:         '<center><img src="https://raw.githubusercontent.com/wfu-r/wfu-r.github.io/master/public/wfu_logo.png" height=60 </img> </center> </a>'
+description:         '<center><img src="https://raw.githubusercontent.com/wfu-r/wfu-r.github.io/master/public/wfu_logo.png" width="100%" height="100%" </img> </center> </a>'
 url:                 http://wfu-r.github.io
 baseurl:             ''
 
