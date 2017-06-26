@@ -2,10 +2,10 @@
 title: General Engagement Guidelines
 author: Brad Boehmke
 layout: tutorial
-permalink: /data_wrangling/engagement
+permalink: /engagement
 ---
 
-30% of your grade will be determined by your level of engagement. Engagement will include participating in class discussions, small group projects, providing quality peer review of code, and being involved in discussions on Slack. I do not like to complicate the grading process so you will be graded as:
+10% of your grade will be determined by your level of engagement. Engagement will include participating in class discussions, small group projects, providing quality peer review of code, and being involved in discussions on Slack. I do not like to complicate the grading process so you will be graded as:
 
 * Fully engaged (100%)
 * Engaged (90%)
