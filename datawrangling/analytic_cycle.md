@@ -11,7 +11,7 @@ Synonymous to Samuel Taylor Coleridge's quote in *Rime of the Ancient Mariner*, 
 
 <center>
 <figure>
-<img src="/public/images/data-science.png" alt="Analytic Cycle" align="middle" vspace="25">
+<img src="https://afit-r.github.io/public/images/data-science.png" alt="Analytic Cycle" align="middle" vspace="25">
  <figcaption>The Analytic Cycle (<a href="http://r4ds.had.co.nz/index.html">Wickham & Grolemund, 2017</a>).</figcaption>
 </figure>
 </center>
