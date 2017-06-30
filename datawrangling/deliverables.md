@@ -5,9 +5,7 @@ layout: tutorial
 permalink: /deliverables
 ---
 
-Throughout this course each student will need to submit 3 project deliverables.  The first deliverable is developing a bio using R Markdown.  The other two deliverables will help you build your final project report.  Each deliverable is worth 10 points each.
-
-Each report will be rendered as an R Markdown HTML product.  You will need to upload your HTML reports to [RPubs](https://rpubs.com/) and then send me the url via Slack. The following describes each deliverable and provides the expectations based on the [final project standards](final_project):
+Throughout this course each student will need to submit 3 project deliverables.  The first deliverable is developing a bio using R Markdown.  The other two deliverables will help you build your final project report.  Each report will be rendered as an R Markdown HTML product.  You will need to upload your HTML reports to [RPubs](https://rpubs.com/) and then send me the url via Slack. The following describes each deliverable and provides the expectations based on the [final project standards](final_project):
 
 
 <div id="general-homework-rubric" class="section level1" style="width: 100%;">
