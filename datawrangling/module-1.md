@@ -22,31 +22,22 @@ If you have not already done so, be sure to read through the syllabus for your s
 [Slack](https://slack.com/) will replace e-mail and Blackboard for our course. You will receive an invitation to the [AFIT DSL slack team](https://afit-dsl.slack.com/). You may wish to install one of the [apps](https://slack.com/downloads/osx). If you have any questions or concerns your first step should be to go to our [class slack channel](https://afit-dsl.slack.com/) and post your issue.  You and your classmates should be monitoring slack to help each other out. In addition, I will also be watching slack and will chime in when necessary but my hope is that this will be a social process where everyone contributes to knowledge advancement.
 
 - Watch and read the introductory material to get started with Slack [here](https://slack.com/is).
-- You can also read this [introduction to Slack](https://vimeo.com/133692325) from one of Kris Shaffer’s courses (although this is a completely different course and slack team it provides a nice introduction that you might find useful).  
+- You can also read this [introduction to Slack](https://vimeo.com/133692325) from one of Kris Shaffer’s courses (although this is a completely different course and slack team it provides a nice introduction that you might find useful). 
+- Sign into the Slack channel and post a witty comment.
 
-### Intro to Data Science
-
-- Read [The Analytic Cycle](analytic_cycle)
-- [Watch R's Role in Data Science](https://www.rstudio.com/resources/videos/rs-role-in-data-science/)
-
-### Intro to R
-
-- Read the [Introduction to R tutorial](intro).
-- Work through the [R Basics tutorial](basics) to install R and RStudio and (re-)familiarize yourself with the basic functionality of the programming language.
-- Watch RStudio's webinar on [writing code](https://www.rstudio.com/resources/webinars/rstudio-essentials-webinar-series-part-1/).
 
 <hr>
 
 ## Class Prep
 
-Complete the following before class:
+You can download the materials for class here: 
 
-1. Sign into the Slack channel and post a witty comment.
-2. Create a .R script and perform the exercises throughout the [R Basics tutorial](basics).  By the end of class submit this .R script to me via Slack.  Be sure to name this file with year, class number, lastname, first and middle initial, then "session1". For example my file name would be: 
+<hr>
 
-   - OPER 682: 2017_OPER682_boehmkebc_session1.R.
-   - LOGM 682: 2017_LOGM682_boehmkebc_session1.R.
-   - You will follow this naming convention throughout the course.
+## Additional Material 
 
-See you in class!
+To improve your basic R skills read & work through the following prior to next week's class. 
+
+- Work through the [R Basics tutorial](basics) to install R and RStudio and (re-)familiarize yourself with the basic functionality of the programming language.
+- Watch RStudio's webinar on [writing code](https://www.rstudio.com/resources/webinars/rstudio-essentials-webinar-series-part-1/).
 
