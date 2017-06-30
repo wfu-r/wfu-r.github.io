@@ -30,7 +30,7 @@ If you have not already done so, be sure to read through the syllabus for your s
 
 ## Class Prep
 
-You can download the materials for class here: 
+You can download the materials for class here: &nbsp; <a href="" style="color:black;"><i class="fa fa-cloud-download" style="font-size:1em"></i></a>
 
 <hr>
 
@@ -38,6 +38,6 @@ You can download the materials for class here:
 
 To improve your basic R skills read & work through the following prior to next week's class. 
 
-- Work through the [R Basics tutorial](basics) to install R and RStudio and (re-)familiarize yourself with the basic functionality of the programming language.
+- Work through the [R Basics tutorial](basics) to familiarize yourself with the basic functionality of the programming language.
 - Watch RStudio's webinar on [writing code](https://www.rstudio.com/resources/webinars/rstudio-essentials-webinar-series-part-1/).
 
