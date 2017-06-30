@@ -30,21 +30,21 @@ Throughout this course each student will need to submit 3 project deliverables. 
 <td align="left" valign="top">Rmarkdown HTML report that provides me with a bio of you. </td>
 <td align="left" valign="top">Start of class, Thursday, July 20 </td>
 <td align="left" valign="top"> Will be provided in class </td>
-<td align="center">5</th>
+<td align="center">5</td>
 </tr>
 <tr class="odd">
 <td align="center" valign="top">2</td>
 <td align="left" valign="top">Rmarkdown HTML report that proposes the data set(s) you want to use and provides an introduction to your proposed analysis. </td>
 <td align="left" valign="top">Start of class, Thursday, July 27 </td>
 <td align="left" valign="top"> 1.1-1.4 </td>
-<td align="center">10</th>
+<td align="center">10</td>
 </tr>
 <tr class="even">
 <td align="center" valign="top">3</td>
 <td align="left" valign="top">Rmarkdown HTML report that builds onto deliverable 1 by loading your data, providing source code information, creating a data dictionary, and performing initial data preparation and early exploratory data analysis. </td>
 <td align="left" valign="top">Start of class, Thursday, August 10 </td>
 <td align="left" valign="top">1.1-1.4, 2.1-2.3, 3.1-3.5, 4.1-4.5, 7.1-7.3 </td>
-<td align="center">20</th>
+<td align="center">20</td>
 </tr>
 </tbody>
 </table>
