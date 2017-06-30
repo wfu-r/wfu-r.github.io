@@ -5,9 +5,9 @@ layout: tutorial
 permalink: /deliverables
 ---
 
-Throughout this course each student will need to submit 4 project deliverables.  Each of these deliverables will contribute towards your final project report and are worth 10 points each.  The purpose of these deliverables are to provide you with ample time to methodically develop your final project and it allows me to provide feedback to help shape your final project.
+Throughout this course each student will need to submit 3 project deliverables.  The first deliverable is developing a bio using R Markdown.  The other two deliverables will help you build your final project report.  Each deliverable is worth 10 points each.
 
-Upon submission you will only need to supply the PDF report (submit via Slack). Your submitted report should be named with year, course number, lastname, first & middle initial, and then "dn" for the appropriate deliverable. For example my file name for deliverable 1 would be: 2017_BAN6003_boehmkebc_d1.Rmd
+Each report will be rendered as an R Markdown HTML product.  You will need to upload your HTML reports to [RPubs](https://rpubs.com/) and then send me the url via Slack. 
 
 The following describes each deliverable and provides the expectations based on the [final project standards](final_project):
 
@@ -27,29 +27,23 @@ The following describes each deliverable and provides the expectations based on 
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
+<tr class="even">
 <td align="center" valign="top">1</td>
+<td align="left" valign="top">Rmarkdown HTML report that provides me with a bio of you. </td>
+<td align="left" valign="top">Start of class, Thursday, July 20 </td>
+<td align="left" valign="top"> Will be provided in class </td>
+</tr>
+<tr class="odd">
+<td align="center" valign="top">2</td>
 <td align="left" valign="top">Rmarkdown HTML report that proposes the data set(s) you want to use and provides an introduction to your proposed analysis. </td>
-<td align="left" valign="top">Start of class, Friday, July 21 </td>
+<td align="left" valign="top">Start of class, Thursday, July 27 </td>
 <td align="left" valign="top"> 1.1-1.4 </td>
 </tr>
 <tr class="even">
-<td align="center" valign="top">2</td>
-<td align="left" valign="top">Rmarkdown HTML report that builds onto deliverable 1 by loading your data, providing source code information, and creating a data dictionary. </td>
-<td align="left" valign="top">Start of class, Friday, July 28 </td>
-<td align="left" valign="top">1.1-1.4, 2.1-2.3, 3.1-3.3, 7.1-7.3 </td>
-</tr>
-<tr class="odd">
 <td align="center" valign="top">3</td>
-<td align="left" valign="top">Rmarkdown HTML report that builds onto deliverable 2 by executing any necessary data preparation and performing basic exploratory data analysis. </td>
-<td align="left" valign="top">Start of class, Friday, August 4 </td>
+<td align="left" valign="top">Rmarkdown HTML report that builds onto deliverable 1 by loading your data, providing source code information, creating a data dictionary, and performing initial data preparation and early exploratory data analysis. </td>
+<td align="left" valign="top">Start of class, Thursday, August 10 </td>
 <td align="left" valign="top">1.1-1.4, 2.1-2.3, 3.1-3.5, 4.1-4.5, 7.1-7.3 </td>
-</tr>
-<tr class="even">
-<td align="center" valign="top">4</td>
-<td align="left" valign="top">Rmarkdown PDF report that builds onto deliverable 3 by refining the data preparation and exploratory data analysis, and proposing the remaining analytic technique(s) you would like to apply to the final project. </td>
-<td align="left" valign="top">Start of class, Friday, August 4 </td>
-<td align="left" valign="top">1.1-1.4, 2.1-2.3, 3.1-3.5, 4.1-4.5, 5.1, 7.1-7.3 </td>
 </tr>
 </tbody>
 </table>
