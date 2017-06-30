@@ -22,7 +22,7 @@ The principal goal of this project is to import an existing data set on the web,
 
 ### Project Data
 
-You will need to identify a data set that is freely available online. I have supplied several options below; however, you are free to choose a data set outside of these.  You will need to get your data set approved by me by (this will happen through the project deliverables). Considering this is a data wrangling class I do expect your data set to have certain qualities so that your analysis illustrates your knowledge of data wrangling.  The following are some data attributes that I will look for (but your data does not need to contain *all* of these attributes, just some):
+You will need to identify a data set that is freely available online. I have supplied several options below; however, you are free to choose a data set outside of these.  You will need to get your data set approved by me by (this will happen through the [project deliverables](deliverables)). Considering this is a data wrangling class I do expect your data set to have certain qualities so that your analysis illustrates your knowledge of data wrangling.  The following are some data attributes that I will look for (but your data does not need to contain *all* of these attributes, just some):
 
 - multiple data types (numerics, characters, dates, etc)
 - non-normalized characteristics (may contain punctuations, upper and lowercase letters, etc)
@@ -134,7 +134,7 @@ I expect your report to tell a story with the data. I do not want you to just re
 - [Movie exploratory analysis](http://rpubs.com/yash91sharma/dw_project_ys)
 - [AirBnB user pathways](http://rpubs.com/angiechen/234334)
 
-Upon submission you will supply the final HTML report. You will also submit the .Rmd file that produced the HTML report, your data, and any other files your .Rmd file leverages (images, .bib file, etc.). Your submitted files should be named with year, course number, lastname, first & middle initial, and then “finalproject.” For example my file name would be: 2017_BAN6003_boehmkebc_finalproject.Rmd
+Upon submission you will upload the final HTML report to RPubs and provide me with the URL. You will also submit the .Rmd file that produced the HTML report, your data, and any other files your .Rmd file leverages (images, .bib file, etc.). Your submitted files should be named with year, course number, lastname, first & middle initial, and then “finalproject.” For example my file name would be: 2017_BAN6003_boehmkebc_finalproject.Rmd.  I expect to be able to fully reproduce your report by knitting your .Rmd file.
 
 
 **Optional:**  For those who are more advanced or daring, I challenge you to develop a [Shiny app](http://shiny.rstudio.com/) using [flexdashboard](http://rmarkdown.rstudio.com/flexdashboard/) to accompany your report. This will turn your exploratory data analysis into an interactive tool for users.  You can see examples [here](https://bradleyboehmke.shinyapps.io/us_savings_rate_app/) and [here](https://bradleyboehmke.shinyapps.io/LPI_Rankings/). 
