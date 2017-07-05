@@ -15,36 +15,22 @@ To be an effective and efficient analyst you need to understand how to manage yo
 
 <hr>
 
-## Tutorials & Resources
+## Class Prep
 
-Read & work through the following prior to class. 
-
-
-### Reproducibility
-
-- Read [Reproducible Research in Computational Science](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3383002/?utm_content=buffer518fc&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer).
-- Read [A Statistical Definition for Reproducibility and Replicability](http://biorxiv.org/content/biorxiv/early/2016/07/29/066803.full.pdf) or the blog post [The Real Reason Reproducible Research is Important](https://simplystatistics.org/2014/06/06/the-real-reason-reproducible-research-is-important/) that provides a shorter summary.
-
-### Reproducibility & Analytic Workflow in R
-
-- Read the [R Projects tutorial](r_projects) and watch the [Projects in RStudio webinar](https://www.rstudio.com/resources/webinars/rstudio-essentials-webinar-series-managing-change-part-1/).
-- Read the [R Markdown tutorial](r_markdown) and watch the [Getting Started with R Markdown webinar](https://www.rstudio.com/resources/webinars/getting-started-with-r-markdown/).
-- Read the [R Notebooks tutorial](r_notebook) and watch the [Introducing Notebooks with R Markdown webinar](https://www.rstudio.com/resources/webinars/introducing-notebooks-with-r-markdown/) (*optional*).
-
-
-Note: If you are unable to produce the PDF report with R Markdown and your error says something along the lines of <code>"pandoc: pdflatex not found. pdflatex is needed for pdf output."</code> then you need to install a recommended TeX distribution for your platform:
-
-- Windows: MiKTeX (Complete) - http://miktex.org/2.9/setup (NOTE: Be sure to download the Complete rather than Basic installation).
-- Mac OS X: TexLive 2013 (Full) - http://tug.org/mactex/ (NOTE: Download with Safari rather than Chrome _strongly_ recommended).
-
+Download the following material for class:
 
 <hr>
 
-## Class Prep
+## Continued Learning
 
-Complete the following before class:
+To build on to what you learned in class and to improve your basic R skills read & work through the following prior to next week’s classes.
 
-1. Follow along in the [Getting Started with R Markdown webinar](https://www.rstudio.com/resources/webinars/getting-started-with-r-markdown/) to create the final integrated .Rmd file that this webinar explains how to produce. If you are having any hiccups in getting the final HTML and PDF reports to populate you will have a chance to work with your group in class to resolve.
-2. Bring an electronic headshot (.png, jpeg.) of yourself to class.  You may also want to bring a current resume or bio as it will help you with the in-class activity.
+- Read the [R Projects tutorial](r_projects) and watch the [Projects in RStudio webinar](https://www.rstudio.com/resources/webinars/rstudio-essentials-webinar-series-managing-change-part-1/).
+- Read the [R Markdown tutorial](r_markdown) and watch the [Getting Started with R Markdown webinar](https://www.rstudio.com/resources/webinars/getting-started-with-r-markdown/). This webinar will walk through the same example I used in class so if you missed anything or want to review something we went over you can easily do so.
+- Read the [R Notebooks tutorial](r_notebook) and watch the [Introducing Notebooks with R Markdown webinar](https://www.rstudio.com/resources/webinars/introducing-notebooks-with-r-markdown/) (*optional*).
 
-See you in class!
+## Deliverables
+
+Don't forget that your first [deliverable (a bio)](deliverables) is due at the start of next Thursday's class.  Refer to the handout in this classes download material for more details.
+
+
