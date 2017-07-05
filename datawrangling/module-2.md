@@ -23,11 +23,11 @@ Download the following material for class:
 
 ## Continued Learning
 
-To build on to what you learned in class and to improve your basic R skills read & work through the following prior to next week’s classes.
+To build on to what you learned in class and to improve your skills read & work through the following prior to next week’s classes.
 
 - Read the [R Projects tutorial](r_projects) and watch the [Projects in RStudio webinar](https://www.rstudio.com/resources/webinars/rstudio-essentials-webinar-series-managing-change-part-1/).
 - Read the [R Markdown tutorial](r_markdown) and watch the [Getting Started with R Markdown webinar](https://www.rstudio.com/resources/webinars/getting-started-with-r-markdown/). This webinar will walk through the same example I used in class so if you missed anything or want to review something we went over you can easily do so.
-- Read the [R Notebooks tutorial](r_notebook) and watch the [Introducing Notebooks with R Markdown webinar](https://www.rstudio.com/resources/webinars/introducing-notebooks-with-r-markdown/) (*optional*).
+- __Optional:__ Read the [R Notebooks tutorial](r_notebook) and watch the [Introducing Notebooks with R Markdown webinar](https://www.rstudio.com/resources/webinars/introducing-notebooks-with-r-markdown/).
 
 ## Deliverables
 
