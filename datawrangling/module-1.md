@@ -27,7 +27,7 @@ If you have not already done so, be sure to read through the [syllabus](ban6003)
 
 ### In-Class Material
 
-You can download the materials for class here: &nbsp; <a href="" style="color:black;"><i class="fa fa-cloud-download" style="font-size:1em"></i></a>
+You can download the materials for class here: &nbsp; <a href="http://bit.ly/2sML2Qn" style="color:black;"><i class="fa fa-cloud-download" style="font-size:1em"></i></a>
 
 <hr>
 
