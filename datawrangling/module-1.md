@@ -25,7 +25,7 @@ If you have not already done so, be sure to read through the [syllabus](ban6003)
 - You can also read this [introduction to Slack](https://vimeo.com/133692325) from one of Kris Shaffer’s courses (although this is a completely different course and slack team it provides a nice introduction that you might find useful). 
 - Sign into the Slack team and post a witty comment in the *Random* channel.
 
-## In-Class Material
+### In-Class Material
 
 You can download the materials for class here: &nbsp; <a href="" style="color:black;"><i class="fa fa-cloud-download" style="font-size:1em"></i></a>
 
