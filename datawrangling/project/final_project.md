@@ -44,7 +44,7 @@ Potential data sets include:
 
 ### Project Report
 
-You will write an [R Markdown](http://uc-r.github.io/r_markdown) HTML report that provides the following sections:
+You will write an [R Markdown](http://wfu-r.github.io/r_markdown) HTML report that provides the following sections:
 
 <div id="final-project-rubric" class="section level1" style="width: 120%;">
 <table style="font-size:13px;">
