@@ -17,7 +17,7 @@ To be an effective and efficient analyst you need to understand how to manage yo
 
 ## Class Prep
 
-Download the following material for class:
+Download the following material for class:  &nbsp; <a href="http://bit.ly/2uqJ2PT" style="color:black;"><i class="fa fa-cloud-download" style="font-size:1em"></i></a>
 
 <hr>
 
@@ -31,6 +31,6 @@ To build on to what you learned in class and to improve your skills read & work 
 
 ## Deliverables
 
-Don't forget that your first [deliverable (a bio)](deliverables) is due at the start of next Thursday's class.  Refer to the handout in this classes download material for more details.
+Don't forget that your first [deliverable (a bio)](deliverables) is due at the start of next Thursday's class.  Refer to the handout in this class's download material for more details.
 
 
