@@ -31,9 +31,9 @@ You can download the materials for class here: &nbsp; <a href="" style="color:bl
 
 <hr>
 
-## Post Class Learning 
+## Continued Learning 
 
-To improve your basic R skills read & work through the following prior to next week's classes. 
+To build on to what you learned in class and to improve your basic R skills read & work through the following prior to next week's classes. 
 
 - Work through the [R Basics tutorial](basics) to familiarize yourself with the basic functionality of the programming language.
 - Watch RStudio's webinar on [writing code](https://www.rstudio.com/resources/webinars/rstudio-essentials-webinar-series-part-1/).
