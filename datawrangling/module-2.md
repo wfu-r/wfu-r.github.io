@@ -29,6 +29,8 @@ To build on to what you learned in class and to improve your skills read & work 
 - Read the [R Markdown tutorial](r_markdown) and watch the [Getting Started with R Markdown webinar](https://www.rstudio.com/resources/webinars/getting-started-with-r-markdown/). This webinar will walk through the same example I used in class so if you missed anything or want to review something we went over you can easily do so.
 - __Optional:__ Read the [R Notebooks tutorial](r_notebook) and watch the [Introducing Notebooks with R Markdown webinar](https://www.rstudio.com/resources/webinars/introducing-notebooks-with-r-markdown/).
 
+<hr>
+
 ## Deliverables
 
 Don't forget that your first [deliverable (a bio)](deliverables) is due at the start of next Thursday's class.  Refer to the handout in this class's download material for more details.
