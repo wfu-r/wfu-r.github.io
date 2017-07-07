@@ -10,6 +10,8 @@ Module 4 builds onto our exploratory data analysis capabilities by focusing on t
 
 <hr>
 
+http://bit.ly/2sVmbde
+
 ## Continued Learning
 
 To build on to what you learned in class and to improve your skills read & work through the following prior to next week’s classes.
