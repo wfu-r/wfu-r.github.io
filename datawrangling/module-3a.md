@@ -1,7 +1,7 @@
 ---
 layout: tutorial
-title: Module 5
-permalink: /module-5
+title: Module 3
+permalink: /module-3
 ---
 
 Last week we discussed general guidelines for first interacting with a new data set. This week we want to build on those activities by performing early exploratory data analysis to answer questions about your data via visualizing and transforming your data. We have two objectives for this week:
