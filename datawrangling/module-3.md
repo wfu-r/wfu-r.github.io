@@ -10,8 +10,9 @@ Being able to create visualizations (graphical representations) of data is a key
 
 ## Class Prep
 
-<hr>
+Download the following material for class:  &nbsp; <a href="" style="color:black;"><i class="fa fa-cloud-download" style="font-size:1em"></i></a>
 
+<hr>
 
 ## Continued Learning
 
