@@ -8,9 +8,9 @@ Module 4 builds onto our exploratory data analysis capabilities by focusing on t
 
 ## Class Prep
 
-<hr>
+Download the following material for class:  &nbsp; <a href="http://bit.ly/2sVmbde" style="color:black;"><i class="fa fa-cloud-download" style="font-size:1em"></i></a>
 
-http://bit.ly/2sVmbde
+<hr>
 
 ## Continued Learning
 
