@@ -8,7 +8,7 @@ So far we've been working with built-in data and data provided by R packages.  A
 
 <hr>
 
-Download the following material for class:   &nbsp; <a href="" style="color:black;"><i class="fa fa-cloud-download" style="font-size:1em"></i></a>
+Download the following material for class:   &nbsp; <a href="http://bit.ly/2tE0bpf" style="color:black;"><i class="fa fa-cloud-download" style="font-size:1em"></i></a>
 
 <hr>
 
