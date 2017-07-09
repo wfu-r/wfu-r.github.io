@@ -10,7 +10,7 @@ It’s rare that a data analysis involves only a single data set. Typically you 
 
 ## Class Prep
 
-Download the following material for class:   
+Download the following material for class:   http://bit.ly/2tx20Wl
 
 <hr>
 
