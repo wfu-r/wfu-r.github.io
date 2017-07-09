@@ -18,12 +18,10 @@ Download the following material for class:   &nbsp; <a href="http://bit.ly/2u13n
 
 To build on to what you learned in class and to improve your skills read & work through the following prior to next week’s classes. 
 
-1. __Tidy Data:__ Read and work through [Chapter 12: Tidy Data](http://r4ds.had.co.nz/tidy-data.html) in R for Data Science to learn how to organize your data the "tidy" way.
-2. __Managing Data Structures:__ R’s base data structures can be organized by their dimensionality (1d, 2d, or nd) and whether they’re homogeneous (all contents must be of the same type) or heterogeneous (the contents can be of different types). This gives rise to five data types most often used in data analysis, and the five data types that nearly all R objects and outputs are built upon.  You already have a strong understanding of data frames; however, it's important to understand and appropriately manage the other data structures as you will likely come across them down the road.  Read and work through:
+1. __Tidy Data:__ Read and work through [Chapter 12: Tidy Data](http://r4ds.had.co.nz/tidy-data.html) in R for Data Science to recap what you learned in class about organizing your data the "tidy" way.
+2. __Managing Data Structures:__ You already have a strong understanding of [data frames](dataframes) and [tibbles](tibbles); however, it's important to understand and appropriately manage the other data structures as you will likely come across them down the road.  Read and work through:
    - [Data structure basics](structure_basics)
    - [Managing vectors](vectors)
    - [Managing matrices](matrices)
    - [Managing lists](lists)
-   - [Managing data frames](dataframes)
-   - [Managing tibbles](tibbles)
 
