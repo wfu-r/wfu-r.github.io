@@ -16,16 +16,13 @@ Download the following material for class:   &nbsp; <a href="" style="color:blac
 
 To build on to what you learned in class and to improve your skills read & work through the following prior to next week’s classes.
 
-### Importing and exporting spreadsheet data
-
-- Read & work through the [Importing Data tutorial](import).
-- Read & work through the [Exporting Data tutorial](exporting).
-    - Newbies can focus on the following sections of this tutorial: [exporting to text files](exporting#export_text_files) and [exporting to R objects](exporting#export_r_objects).
-    - Optional: Those more ambitious can also work through [exporting to Excel portion](exporting#export_excel_files).
-
-### Scraping text & tables
-
-- Read & work through the [Importing spreadsheet data files stored online](scraping#importing_spreadsheet_data) portion of the [Scraping Data tutorial](/scraping)
-- Optional: For those more advanced folks, work through the following sections of the [Scraping Data tutorial](scraping): [Scraping HTML text](scraping#scraping_HTML_text), [Scraping HTML tables](scraping#scraping_HTML_tables), and [Leveraging APIs to scrape data](scraping#scraping_api)
+- Importing and exporting spreadsheet data
+    - Read & work through the [Importing Data tutorial](import).
+    - Read & work through the [Exporting Data tutorial](exporting).
+        - Newbies can focus on the following sections of this tutorial: [exporting to text files](exporting#export_text_files) and [exporting to R objects](exporting#export_r_objects).
+        - Optional: Those more ambitious can also work through [exporting to Excel portion](exporting#export_excel_files).
+- Scraping text & tables
+    - Read & work through the [Importing spreadsheet data files stored online](scraping#importing_spreadsheet_data) portion of the [Scraping Data tutorial](/scraping)
+    - Optional: For those more advanced folks, work through the following sections of the [Scraping Data tutorial](scraping): [Scraping HTML text](scraping#scraping_HTML_text), [Scraping HTML tables](scraping#scraping_HTML_tables), and [Leveraging APIs to scrape data](scraping#scraping_api)
 
 
