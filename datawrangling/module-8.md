@@ -14,7 +14,11 @@ In R, working with factors, dates and times *can* be simple when using the right
 
 ## Class Prep
 
+Download the following material for class: &nbsp; <a href="http://bit.ly/2uZIQq4" style="color:black;"><i class="fa fa-cloud-download" style="font-size:1em"></i></a>
 
 <hr>
 
 ## Continued Learning
+
+- Read and work through [Chapter 15: Factors](http://r4ds.had.co.nz/factors.html) of R for Data Science.
+- Read and work through [Chapter 16: Dates and times](http://r4ds.had.co.nz/dates-and-times.html) of R for Data Science.
