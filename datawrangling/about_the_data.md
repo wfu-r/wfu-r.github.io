@@ -307,7 +307,7 @@ IQR(mtcars$mpg)
 ```
 
 
-An alternative approach is to use the `summary` function which is a generic R function used to produce min, 1st quantile, median, mean, 3rd quantile, and max summary measures. However, though we do not see a difference here, note that the 1st and 3rd quantiles produced by `summary` may differ from the 1st and 3rd quantiles produced by `fivenum` and the default `quantile`. The reason for this is due to the lack of universal agreement on how the 1st and 3rd quartiles should be calculated.[^quant] Eric Cai provided a good [blog post](https://chemicalstatistician.wordpress.com/2013/08/12/exploratory-data-analysis-the-5-number-summary-two-different-methods-in-r-2/) that discusses this difference in the R functions.
+An alternative approach is to use the `summary` function which is a generic R function used to produce min, 1st quantile, median, mean, 3rd quantile, and max summary measures. However, though we do not see a difference here, note that the 1st and 3rd quantiles produced by `summary` may differ from the 1st and 3rd quantiles produced by `fivenum` and the default `quantile`. The reason for this is due to the lack of universal agreement on how the 1st and 3rd quartiles should be calculated. Eric Cai provided a good [blog post](https://chemicalstatistician.wordpress.com/2013/08/12/exploratory-data-analysis-the-5-number-summary-two-different-methods-in-r-2/) that discusses this difference in the R functions.
 
 
 ```r
