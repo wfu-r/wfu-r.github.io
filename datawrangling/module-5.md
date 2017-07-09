@@ -16,7 +16,7 @@ Download the following material for class:   &nbsp; <a href="http://bit.ly/2tE0b
 
 To build on to what you learned in class and to improve your skills read & work through the following prior to next week’s classes.
 
-- __Importing and exporting spreadsheet data__
+- __Class Re-cap: Importing and exporting spreadsheet data__
     - Read & work through the [Importing Data tutorial](import).
     - Read & work through the [Exporting Data tutorial](exporting).
         - Newbies can focus on the following sections of this tutorial: [exporting to text files](exporting#export_text_files) and [exporting to R objects](exporting#export_r_objects).
