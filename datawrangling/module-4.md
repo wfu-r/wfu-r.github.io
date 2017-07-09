@@ -6,6 +6,8 @@ permalink: /module-4
 
 Module 4 builds onto our exploratory data analysis capabilities by focusing on the transformation component of EDA. Common transformation procedures include filtering observations by their values, reordering rows, selecting variables, creating new variables with functions of existing variables, and collapsing values down to single summary summary statistics. Furthermore, we often group our data at different aggregation levels when performing these transformation tasks.  This module covers these basic capabilities.
 
+<hr>
+
 ## Class Prep
 
 Download the following material for class:  &nbsp; <a href="http://bit.ly/2sVmbde" style="color:black;"><i class="fa fa-cloud-download" style="font-size:1em"></i></a>
