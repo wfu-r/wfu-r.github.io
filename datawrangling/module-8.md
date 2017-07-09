@@ -20,5 +20,7 @@ Download the following material for class: &nbsp; <a href="http://bit.ly/2uZIQq4
 
 ## Continued Learning
 
+To build on to what you learned in class and to improve your skills read & work through the following prior to next week’s classes.
+
 - Read and work through [Chapter 15: Factors](http://r4ds.had.co.nz/factors.html) of R for Data Science.
 - Read and work through [Chapter 16: Dates and times](http://r4ds.had.co.nz/dates-and-times.html) of R for Data Science.
