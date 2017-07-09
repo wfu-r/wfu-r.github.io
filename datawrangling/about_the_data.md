@@ -153,7 +153,7 @@ However, you may notice something. According to the codebook (`?mtcars`) the *cy
 - `gear` is the number of gears (3, 4, or 5)
 - `carb` is the number of carburetors (1, 2, 3, 4, 6, or 8)
 
-We can change variable types using the suite of `as.` functions (`as.character`, `as.integer`, `as.factor`, etc.). In R, categorical variables are considered "factors" so to change these variables to factors we simply apply the `as.factor()` function. Don't worry, you'll learn more about factors and other data types in the coming weeks.
+We can change variable types using the suite of `as.` functions (`as.character`, `as.integer`, `as.factor`, etc.). In R, categorical variables are considered "factors" so to change these variables to factors we simply apply the `as.factor()` function. 
 
 
 ```r
@@ -240,7 +240,7 @@ median(mtcars$mpg)
 ## [1] 19.2
 ```
 
-Unfortunately, there is not a built-in function to compute the mode of a variable[^mode]. However, we can create a function that takes the vector as an input and gives the mode value as an output.
+Unfortunately, there is not a built-in function to compute the mode of a variable. However, we can create a function that takes the vector as an input and gives the mode value as an output.
 
 
 ```r
@@ -282,7 +282,7 @@ max(mtcars$mpg) - min(mtcars$mpg)
 
 ##### Percentiles
 
-Given a certain percentage such as 25%, what is the mpg value such that 25% of the `mtcars` observations fall below it? This type of question leads to <u>percentiles</u> and <u>quartiles</u>. Specifically, for any percentage *p*, the *p*th percentile is the value such that a percentage *p* of all values are less than it. Similarly, the first, second, and third quartiles are the percentiles corresponding to $p=25\%$, $p=50\%$, and $p=75\%$. These three values divide the data into four groups, each with (approximately) a quarter of all observations. Note that the second quartile is equal to the median by definition. These measures are easily computed in R:
+Given a certain percentage such as 25%, what is the mpg value such that 25% of the `mtcars` observations fall below it? This type of question leads to <u>percentiles</u> and <u>quartiles</u>. Specifically, for any percentage *p*, the *p*th percentile is the value such that a percentage *p* of all values are less than it. Similarly, the first, second, and third quartiles are the percentiles corresponding to $$p=25\%$$, $$p=50\%$$, and $$p=75\%$$. These three values divide the data into four groups, each with (approximately) a quarter of all observations. Note that the second quartile is equal to the median by definition. These measures are easily computed in R:
 
 
 ```r
