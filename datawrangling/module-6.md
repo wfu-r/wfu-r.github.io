@@ -10,7 +10,7 @@ In this module, you will learn a consistent way to organize your data in R, an o
 
 ## Class Prep
 
-Download the following material for class:  http://bit.ly/2u13nNR 
+Download the following material for class:   &nbsp; <a href="http://bit.ly/2u13nNR" style="color:black;"><i class="fa fa-cloud-download" style="font-size:1em"></i></a> 
 
 <hr>
 
