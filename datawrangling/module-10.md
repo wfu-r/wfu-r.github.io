@@ -4,24 +4,31 @@ title: Module 10
 permalink: /module-10
 ---
 
-Two common data types that we often deal with in analyses are factors and dates:
+Don't repeat yourself (DRY) is a software development principle aimed at reducing repetition. Formulated by Andy Hunt and Dave Thomas in their book [The Pragmatic Programmer](http://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X/ref=sr_1_1?s=books&ie=UTF8&qid=1456066112&sr=1-1&keywords=the+pragmatic+programmer), the DRY principle states that "every piece of knowledge must have a single, unambiguous, authoritative representation within a system." This principle has been widely adopted to imply that you should not duplicate code. Although the principle was meant to be far grander than that[^footnote], there's plenty of merit behind this slight misinterpretation.
 
-- Factors are used to represent categorical data, variables that have a fixed and known set of possible values (i.e. Gender: Female vs. Male; Months: Jan, Feb, ..., Dec; Country: U.S., Germany, Japan).  
-- Time series data have various date-time stamp information that can be very useful if we know how to properly work with them.
+Removing duplication is an important part of writing efficient code and reducing potential errors. First, reduced duplication of code can improve computing time and reduces the amount of code writing required. Second, less duplication results in less creating and saving of unnecessary objects. Inefficient code invariably creates copies of objects you have little interest in other than to feed into some future line of code; this wrecks havoc on properly managing your objects as it basically results in a global environment charlie foxtrot! Less duplication also results in less editing. When changes to code are required, duplicated code becomes tedious to edit and invariably mistakes or fat-fingering occur in the cut-and-paste editing process which just lengthens the editing that much more.
 
-This module will teach you how to deal with these two data types.
+Thus, minimizing duplication by writing efficient code is important to becoming a data analyst and this week we will focus on two methods to achieve this:
 
-<hr>
-
-## Tutorials & Resources
-
-**Factors:**  Historically, factors were much easier to work with than characters. As a result, many of the functions in base R automatically convert characters to factors. This means that factors often crop up in places where they’re not actually helpful and you need to understand how to manipulate and work with them. Read and work through *[Chapter 15: Factors](http://r4ds.had.co.nz/factors.html)*. 
-
-**Dates:**  Real world data are often associated with dates and time; however, dealing with dates accurately can appear to be a complicated task due to the variety in formats and accounting for time-zone differences and leap years. Read and work through [*Chapter 16: Dates and times*](http://r4ds.had.co.nz/dates-and-times.html) to learn how to manage date-time data.
+1. Writing functions
+2. Using iteration
 
 
 <hr>
 
 ## Class Prep
 
-Work through the exercises in each of the tutorials provided.
+Download the following material for class: &nbsp; <a href="" style="color:black;"><i class="fa fa-cloud-download" style="font-size:1em"></i></a>
+
+<hr>
+
+## Continued Learning
+
+To build on to what you learned in class and to improve your skills read & work through the following prior to next week’s classes.
+
+**Writing functions:** Functions allow you to reduce code duplication by automating a generalized task to be applied recursively. Whenever you catch yourself repeating a function or copy-and-pasteing code there is a good chance that you should write a function to eliminate the redundancies. Read [Chapter 19: Functions](http://r4ds.had.co.nz/functions.html) to get started with functions.
+
+
+
+
+[^footnote]: According to [Dave Thomas](http://www.artima.com/intv/dry.html), "DRY says that every piece of system knowledge should have one authoritative, unambiguous representation. Every piece of knowledge in the development of something should have a single representation. A system's knowledge is far broader than just its code. It refers to database schemas, test plans, the build system, even documentation."
