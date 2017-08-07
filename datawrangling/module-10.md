@@ -8,11 +8,7 @@ Don't repeat yourself (DRY) is a software development principle aimed at reducin
 
 Removing duplication is an important part of writing efficient code and reducing potential errors. First, reduced duplication of code can improve computing time and reduces the amount of code writing required. Second, less duplication results in less creating and saving of unnecessary objects. Inefficient code invariably creates copies of objects you have little interest in other than to feed into some future line of code; this wrecks havoc on properly managing your objects as it basically results in a global environment charlie foxtrot! Less duplication also results in less editing. When changes to code are required, duplicated code becomes tedious to edit and invariably mistakes or fat-fingering occur in the cut-and-paste editing process which just lengthens the editing that much more.
 
-Thus, minimizing duplication by writing efficient code is important to becoming a data analyst and this week we will focus on two methods to achieve this:
-
-1. Writing functions
-2. Using iteration
-
+Thus, minimizing duplication by writing efficient code is important to becoming a data analyst and this week we will focus on how to write functions to achieve greater efficiency.
 
 <hr>
 
