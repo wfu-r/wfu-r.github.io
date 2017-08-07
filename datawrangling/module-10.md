@@ -14,7 +14,7 @@ Thus, minimizing duplication by writing efficient code is important to becoming 
 
 ## Class Prep
 
-Download the following material for class: &nbsp; <a href="" style="color:black;"><i class="fa fa-cloud-download" style="font-size:1em"></i></a>
+Download the following material for class: &nbsp; <a href="https://www.dropbox.com/sh/6b19bxvb83qttrc/AADJ4R5mNfqZRDhADWIXvXcAa?dl=1" style="color:black;"><i class="fa fa-cloud-download" style="font-size:1em"></i></a>
 
 <hr>
 
