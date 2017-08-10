@@ -6,8 +6,8 @@ permalink: /module-11
 
 Much of this module will be spent going through an interactive tutorial that will teach you some foundational analytic techniques. I have built an R package that provides a structured, interactive environment and the following instructions will get your computer set up to run these tutorials:
 
-1. Make sure the version of R on your computer is v3.4.0 (2017-04-21) or greater
-2. Make sure the version of RStudio is v1.0.143 or greater
+1. Make sure the [version of R](https://cran.r-project.org/) on your computer is v3.4.0 (2017-04-21) or greater
+2. Make sure the [version of RStudio](https://www.rstudio.com/products/rstudio/download/#download) is v1.0.143 or greater
 3. Install the devtools packackage with `install.packages("devtools")`
 4. Run `devtools::install_github("bradleyboehmke/learningAnalytics")`
 5. Activate the first tutorial with `learningAnalytics::get_tutorial("hello")`
